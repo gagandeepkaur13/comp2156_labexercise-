@@ -1,0 +1,12 @@
+{
+  "name": "workflows",
+  "version": "1.0.0",
+  "description": "COMP2156a lab exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Gagandeep kaur",
+  "license": "ISC"
+}
